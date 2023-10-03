@@ -1,1 +1,0 @@
-SELECT U.ID,U.Nom, P.Pays FROM utilisateur AS U Join Pays AS P ON U.Pays=P.ID
