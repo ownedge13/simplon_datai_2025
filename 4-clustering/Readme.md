@@ -24,12 +24,13 @@ Question de veilles:
 * Quelle sont les métriques utilisés pour le clustering ?
 * Écrivez en une phrase votre compréhension pour 3 métrique avec ground truth (dont MNI) 3 sans ground truth (dont silhouette)
 	* donner en une phrase l'intuition derrière ces mesures.
-* différence entre NMI et AMI ?
+    * différence entre NMI et AMI et silhouette ?
 
 ## Explore 
 
-- Run a clustering algorithm on digits dataset digits/mnist dataset to cluster the numbers.
-- Compute the different metrics for unsupervised learning and comments on them.
+- Run a clustering algorithm on the digits/mnist dataset to cluster the numbers.
+- Compute the different metrics for unsupervised learning and comment on them.
+- compre the results with two diffrerent vectorization approach : CountVectorizer and TfIDFVectorizer.
 - Visualize the clustering in a 2D dimensional space using dimensionality reduction techniques.
 
 ## Dive
