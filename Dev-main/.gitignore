@@ -1,0 +1,10 @@
+.pytest_cache
+components/__pycache__
+.venv
+.venvzombie
+machinelearning/__pycache__
+machinelearning/encoder.sav
+machinelearning/finalized_model.sav
+test/__pycache__
+static/img/*.png
+.DS_Store
